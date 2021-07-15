@@ -3,7 +3,7 @@
 ## Descripcion
 
 - API Rest hecho en NodeJS/Express utilizando base de datos MongoDB.
-- En la DB esta compuesta por tres tablas: USUARIOS/PROYECTOS/TAREAS
+- La DB esta compuesta por tres esquemas/tablas: USUARIOS/PROYECTOS/TAREAS
 
 ### Dependenciias
 
@@ -21,9 +21,7 @@ npm run dev
 
 ## Autor o autores
 
-Todas las personas que han contribuido.
-
-ex. Martin Jorge Nicolas
+- Martin Jorge Nicolas
 
 ## Versines
 
@@ -32,4 +30,4 @@ ex. Martin Jorge Nicolas
 
 ## Licencia
 
--Open Source
+- Open Source
